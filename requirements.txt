@@ -1,0 +1,7 @@
+aiogram==3.3.0
+mss==9.0.1
+numpy==1.26.3
+psutil==5.9.7
+Requests==2.31.0
+SoundCard==0.4.2
+soundfile==0.12.1
